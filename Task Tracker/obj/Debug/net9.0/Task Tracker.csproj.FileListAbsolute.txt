@@ -1,0 +1,18 @@
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.csproj.AssemblyReference.cache
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.AssemblyInfoInputs.cache
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.AssemblyInfo.cs
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.csproj.CoreCompileInputs.cache
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.sourcelink.json
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Task Tracker.exe
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Task Tracker.deps.json
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Task Tracker.runtimeconfig.json
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Task Tracker.dll
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Task Tracker.pdb
+E:\Project-Ideas\Task Tracker\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tra.8401731A.Up2Date
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.dll
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\refint\Task Tracker.dll
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.pdb
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\Task Tracker.genruntimeconfig.cache
+E:\Project-Ideas\Task Tracker\obj\Debug\net9.0\ref\Task Tracker.dll
